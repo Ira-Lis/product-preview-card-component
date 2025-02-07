@@ -36,7 +36,7 @@ section {
   margin-inline: auto;
   margin-block: 175px;
   max-width: 600px;
-  min-height: 450px;
+  height: 450px;
   display: grid;
   grid-template-columns: repeat(2, 2fr);
   column-gap: 0px;
