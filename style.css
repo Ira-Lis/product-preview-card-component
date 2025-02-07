@@ -51,6 +51,7 @@ h2 {
   letter-spacing: 5px;
   color: #6c7289;
   margin-block-end: 20px;
+  text-transform: uppercase;
 }
 h1 {
   font-size: 32px;
